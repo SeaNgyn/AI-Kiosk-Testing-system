@@ -5,4 +5,4 @@ Link Demo Web for Admin/Lecture/Supervisor: https://g77-sep490-su25-ab4781.gitla
 
 Link Download App: https://drive.google.com/drive/folders/10ejsQpcgI15Ccgw0XYJNFjEVHUdh1fdp?usp=sharing 
 
-Account to test: Tk:anhntA@gmail.com (Cơ sở Hà Nội, role: Admin) Mk:Ab@123456
+Account to test: Tk: anhntA@gmail.com (Cơ sở Hà Nội, role: Admin) Mk:Ab@123456
